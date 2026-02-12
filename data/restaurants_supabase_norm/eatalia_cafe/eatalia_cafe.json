@@ -1,0 +1,58 @@
+{
+  "name": "Eatalia Cafe and Sushi Bar (94 Bermondsey St)",
+  "short_title": "Grab-and-go Italian-style café + made-to-order sushi",
+  "neighbourhood": [
+    "Bermondsey",
+    "London Bridge"
+  ],
+  "cuisine": [
+    "Italian-style café",
+    "Sandwiches",
+    "Sushi"
+  ],
+  "category": [
+    "Quick lunch",
+    "Coffee stop",
+    "Grab-and-go"
+  ],
+  "price_range": "££",
+  "summary": "Eatalia Cafe and Sushi Bar is a small, busy Bermondsey Street spot used as a reliable lunch and coffee stop. Reviews highlight very friendly staff and good value for the area. The main draw is toasted sandwiches/paninis and hearty pasta dishes, with cannoli as the standout sweet treat. Sushi is available and often described as made-to-order, making it a useful option for mixed-group cravings.",
+  "what_diners_love": [
+    "Friendly, chatty service with frequent staff shoutouts (welcoming, hospitable vibe)",
+    "Sandwiches/paninis as the main lunchtime draw (toasted melts, baguettes, focaccia)",
+    "Hearty pasta and lasagne with generous portions",
+    "Cannoli and sweet treats (signature item; deluxe cannoli often praised)",
+    "Coffee frequently praised, with loyalty/deals mentioned in reviews",
+    "Good value for the Bermondsey Street/London Bridge area"
+  ],
+  "popular_dishes": [
+    "Chicken sandwiches / chicken baguette",
+    "Parma melt / panini (mozzarella + pesto)",
+    "Pesto pasta",
+    "Lasagne (big portions mentioned)",
+    "Arancini (popular but polarising)",
+    "Cannoli (including deluxe cannoli)",
+    "Gelato"
+  ],
+  "atmosphere_experience": "Small, busy and casual—more of a quick stop than a sit-and-linger café. Best suited to grab-and-go lunches, short coffee breaks, or a quick sweet treat.",
+  "good_to_know": [
+    "Sandwiches and paninis are the most reliable crowd-pleasers",
+    "Sushi is available and often described as made-to-order (helpful for mixed groups)",
+    "Service speed can vary depending on how busy it is",
+    "Some fillings can be rich/oily (pesto + mozzarella heaviness mentioned)—you can ask to go lighter"
+  ],
+  "mixed_feedback": [
+    "Matcha receives repeated criticism (pre-mix taste / poor quality reported by multiple reviewers)",
+    "Some portion/value disagreement on sandwiches (small or pricey for some)",
+    "Arancini is polarising—many love it, a few strongly dislike it",
+    "Occasional slow service reported during hectic periods/renovations"
+  ],
+  "best_for": [
+    "Quick lunch near London Bridge",
+    "Toasted sandwiches/paninis + coffee",
+    "Cannoli or gelato treat",
+    "Mixed-group lunch (Italian café + sushi options)"
+  ],
+  "top_tip": "For a safe bet, go for the chicken sandwich/panini or Parma melt, plus coffee and a deluxe cannoli. If you’re picky about drinks, skip the matcha and stick to coffee.",
+  "booking": "walk_in"
+}

@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import { Restaurant } from './types';
 
-const DATA_DIR = path.join(process.cwd(), '..', 'restaurants_supabase_norm', 'restaurants_supabase_norm');
+const DATA_DIR = path.join(process.cwd(), 'data', 'restaurants_supabase_norm');
 
 export function getAllRestaurants(): Restaurant[] {
     try {

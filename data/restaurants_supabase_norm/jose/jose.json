@@ -1,0 +1,65 @@
+{
+  "name": "José (Bermondsey Street)",
+  "short_title": "Lively, walk-in Spanish tapas bar with cult-favourite classics",
+  "neighbourhood": [
+    "Bermondsey",
+    "London Bridge"
+  ],
+  "cuisine": [
+    "Spanish",
+    "Tapas"
+  ],
+  "category": [
+    "Casual",
+    "Walk-in",
+    "Small plates"
+  ],
+  "price_range": "££",
+  "summary": "José is the original, most informal tapas bar from chef José Pizarro and one of Bermondsey Street’s busiest spots. It’s walk-in only, tiny, and almost always buzzing—but for many diners, that’s part of the charm. Reviews consistently praise the authentic Spanish flavours, fast-moving plates, and standout classics, especially the tortilla and jamón.",
+  "what_diners_love": [
+    "Runny, onion-sweet tortilla española often called one of the best in London",
+    "Authentic, no-nonsense Spanish flavours straight out of a tapas bar in Spain",
+    "Quick, efficient service that keeps plates coming even when it’s packed",
+    "Lively, convivial atmosphere with open kitchen and bar seating",
+    "Strong wine, sherry and vermouth selection (plus crisp Estrella)",
+    "Excellent people-watching from counter or outdoor seats"
+  ],
+  "popular_dishes": [
+    "Tortilla española (must-order)",
+    "Jamón Ibérico",
+    "Croquetas (jamón and rotating variations)",
+    "Pluma Ibérica",
+    "Padrón peppers",
+    "Pan con tomate",
+    "Garlic prawns",
+    "Grilled squid",
+    "Black rice with squid",
+    "Fried goat’s cheese with honey",
+    "Chocolate pot",
+    "Flan",
+    "Cheesecake"
+  ],
+  "atmosphere_experience": "Small, loud and energetic with tables close together and a constant flow of guests. Many diners love the buzzy, authentic tapas-bar feel, while others find it cramped or rushed at peak times. Counter seating by the open kitchen is a highlight for solo diners and food lovers.",
+  "good_to_know": [
+    "Walk-ins only; queues are common but usually move quickly",
+    "Very limited space: close seating and noticeable noise during busy hours",
+    "Designed for quick, social eating rather than long leisurely meals",
+    "Portions are small; most diners order 2–3 dishes per person",
+    "Costs can add up quickly, especially with drinks",
+    "Vegetarian options available, but the menu is meat-led"
+  ],
+  "mixed_feedback": [
+    "Some diners feel rushed or pressured to order/leave during busy periods",
+    "Occasional comments about over-salting or inconsistency on certain dishes",
+    "Service can feel brisk or impersonal when at full capacity"
+  ],
+  "best_for": [
+    "Tapas lovers",
+    "Quick pre-theatre bites",
+    "Casual dates",
+    "Solo dining at the bar",
+    "Anyone chasing a true Spanish tapas-bar buzz"
+  ],
+  "top_tip": "Arrive earlier in the day or mid-afternoon to avoid the longest queues, and don’t leave without ordering the tortilla—it’s the dish that keeps people coming back.",
+  "booking": "walk_in"
+}

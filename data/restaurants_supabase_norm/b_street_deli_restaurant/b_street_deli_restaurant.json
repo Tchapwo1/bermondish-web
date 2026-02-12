@@ -1,0 +1,56 @@
+{
+  "name": "B Street Deli",
+  "short_title": "Rustic deli + wine bar for sandwiches, boards and canelés",
+  "address": "88 Bermondsey St, London SE1 3UB, United Kingdom",
+  "neighbourhood": [
+    "Bermondsey",
+    "London Bridge"
+  ],
+  "cuisine": [
+    "Deli",
+    "Wine bar",
+    "Sandwiches",
+    "Cheese & charcuterie"
+  ],
+  "category": [
+    "Deli café",
+    "Wine-led",
+    "Casual"
+  ],
+  "rating": 4.2,
+  "review_count": 610,
+  "price_per_person": "£10–20",
+  "phone": "020 3758 7657",
+  "hours": "Open daily (~07:30–23:00)",
+  "summary": "B Street Deli is a rustic-style deli and wine bar on Bermondsey Street serving coffee, pastries, sandwiches, salads, and grazing boards with a strong wine selection. It’s a popular all-day stop for casual lunches and relaxed evening drinks, with reviews frequently calling out the charcuterie/cheese boards, canelés and good-value wine.",
+  "what_diners_love": [
+    "Charcuterie and cheese boards for sharing",
+    "Canelés often described as a standout",
+    "Reliable breakfast baps, sandwiches and salads",
+    "Good wine list (Malbec frequently praised)",
+    "Works well as an all-day deli café that shifts into wine-bar mode"
+  ],
+  "popular_dishes": [
+    "Charcuterie board",
+    "Cheese board",
+    "Canelés",
+    "Breakfast baps",
+    "Sandwiches",
+    "Salads",
+    "Malbec"
+  ],
+  "atmosphere_experience": "A relaxed rustic deli vibe by day that transitions into a casual wine bar in the evening—ideal for grab-and-go, quick lunches, or low-key drinks.",
+  "good_to_know": [
+    "Good value for the area based on typical spend",
+    "Suitable for quick stops as well as casual grazing and wine",
+    "Open daily with late closing (~11pm)"
+  ],
+  "best_for": [
+    "Quick breakfast or lunch",
+    "Sandwiches and deli food",
+    "Wine + boards",
+    "Casual Bermondsey Street catch-ups"
+  ],
+  "top_tip": "If you’re visiting for the first time, go for a board + a glass of Malbec, and don’t miss the canelés.",
+  "booking": "walk_in"
+}

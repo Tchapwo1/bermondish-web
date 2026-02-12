@@ -1,0 +1,59 @@
+{
+  "name": "Flour & Grape (Bermondsey Street)",
+  "short_title": "Handmade pasta hotspot with cult status",
+  "neighbourhood": [
+    "Bermondsey",
+    "London Bridge"
+  ],
+  "cuisine": [
+    "Italian",
+    "Pasta bar"
+  ],
+  "category": [
+    "Casual",
+    "Walk-in",
+    "Pasta-focused"
+  ],
+  "price_range": "££",
+  "summary": "Flour & Grape is one of Bermondsey Street’s most talked-about Italian restaurants, known for fresh handmade pasta, a lively atmosphere and a walk-in-only policy that often means queues. Diners consistently praise the flavour and quality of the pasta and the warmth of the service, while opinions vary on portion sizes, salt levels and value depending on what you order and how hungry you arrive.",
+  "what_diners_love": [
+    "Fresh pasta made on site, cooked al dente and full of flavour",
+    "Standout carbonara often cited as one of the best in London",
+    "Friendly, attentive staff even during extremely busy services",
+    "Buzzing, energetic atmosphere that feels authentic and social",
+    "Good vegetarian and gluten-free options that are clearly labelled",
+    "Basement cocktail bar that makes waiting easier during peak times"
+  ],
+  "popular_dishes": [
+    "Spaghetti carbonara (guanciale, egg yolk, parmesan)",
+    "Roasted pork shoulder tortelloni",
+    "Pumpkin ravioli with sage butter",
+    "Pappardelle with beef or short-rib ragù",
+    "Fazzoletti (spinach pasta)",
+    "Tiger prawn linguine",
+    "Bruschetta",
+    "Burrata",
+    "Artichoke starter",
+    "Tiramisu",
+    "Tiramisu gelato",
+    "Chocolate budino"
+  ],
+  "atmosphere_experience": "A small, busy and often very loud dining room—especially in the evenings. The vibe is informal, fast-paced and communal, with counter seating and tightly packed tables. Many diners love the energy, though conversation can be difficult at peak times. Service is widely described as warm, efficient and welcoming even when full.",
+  "good_to_know": [
+    "No reservations; walk-ins only with common waits of 30–90+ minutes at peak times",
+    "Use the virtual queue (Dojo app) and wait at the downstairs bar",
+    "Portions can feel small, particularly starters; sharing multiple pastas is common",
+    "Some diners find dishes salty (notably carbonara and tortelloni)",
+    "Best strategy is arriving at opening time or visiting for weekday lunch",
+    "Tables can be tight, especially for larger groups"
+  ],
+  "best_for": [
+    "Pasta lovers",
+    "Casual dates",
+    "Small groups",
+    "Lively dinners",
+    "Fans of no-frills Italian cooking"
+  ],
+  "top_tip": "Arrive right at opening or for weekday lunch, order 2–3 pastas to share, and don’t skip the carbonara—it’s the dish reviewers most consistently rave about.",
+  "booking": "walk_in"
+}

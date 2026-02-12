@@ -1,0 +1,124 @@
+{
+  "restaurants": [
+    {
+      "name": "Café Murano (Bermondsey)",
+      "short_title": "Modern Italian near London Bridge",
+      "neighbourhood": [
+        "Bermondsey",
+        "London Bridge"
+      ],
+      "cuisine": [
+        "Italian",
+        "Modern Italian"
+      ],
+      "category": [
+        "Casual fine dining",
+        "Date night",
+        "Celebrations"
+      ],
+      "price_range": "££",
+      "summary": "Café Murano Bermondsey is a stylish, modern Italian restaurant near London Bridge known for fresh pasta, seasonal dishes, well-chosen wines, and warm, professional service—popular for celebrations, date nights, and long lunches.",
+      "what_diners_love": [
+        "Attentive, welcoming service (often noted for anniversaries and birthdays)",
+        "Vibrant, polished setting with open-kitchen energy",
+        "Strong pasta and starters (especially seafood and house classics)",
+        "Vegetarian-friendly with clearly labelled dishes and good selection"
+      ],
+      "popular_dishes": [
+        "Arancini",
+        "Crab linguine (often with pangrattato)",
+        "Tortellini / tortelli",
+        "Gnocchi",
+        "Pork belly / pork chop",
+        "Chicken Milanese (mixed feedback, but often rated highly)",
+        "Panzanella (including grilled peach versions)",
+        "Tiramisu",
+        "Semifreddo",
+        "Peach tart",
+        "Polenta cake",
+        "Sorbet / ice cream"
+      ],
+      "atmosphere_experience": "Comfortable, bright, and welcoming with a relaxed-but-refined feel. Often quiet enough for conversation, though can become livelier during busy services.",
+      "good_to_know": [
+        "Reservations recommended (sometimes essential for dinner and special occasions)",
+        "Menu is curated and focused; some guests mention limited main choices or occasional missing items",
+        "Value perception varies depending on order; some note smaller pasta portions",
+        "Staff generally accommodating with dietary needs and intolerances",
+        "Dog- and kid-friendly",
+        "Paid parking nearby; often easier to arrive via tube/train; accessible toilets noted"
+      ],
+      "best_for": [
+        "Anniversaries",
+        "Birthdays",
+        "Relaxed grown-up dinners",
+        "Catching up with friends",
+        "Modern Italian with standout service",
+        "Groups who like sharing plates"
+      ],
+      "top_tip": "If choosing between set and à la carte, set menus can be strong value, while à la carte works best when you want signature pastas and starters.",
+      "booking": "recommended"
+    },
+    {
+      "name": "José Tapas Bar (Bermondsey)",
+      "short_title": "Authentic Spanish tapas near London Bridge",
+      "neighbourhood": [
+        "Bermondsey",
+        "London Bridge"
+      ],
+      "cuisine": [
+        "Spanish",
+        "Tapas"
+      ],
+      "category": [
+        "Casual",
+        "Small plates",
+        "Walk-in"
+      ],
+      "price_range": "££",
+      "summary": "José is a small, walk-in-only Spanish tapas bar on Bermondsey Street, widely regarded as one of the area’s go-to spots for authentic, boldly flavoured tapas and excellent Spanish wines. Owned by chef José Pizarro, it offers a true bodega-style experience focused on high-quality ingredients, simple plates, and sharing-friendly dining. Queues are common at peak times, but many diners say it’s well worth the wait.",
+      "what_diners_love": [
+        "Outstanding tapas with big flavour, especially seafood, pork and classic Spanish staples",
+        "Runny tortilla española frequently described as one of the best in London",
+        "High-quality ingredients: jamón ibérico, fresh seafood, excellent olive oil",
+        "Lively, convivial vibe that feels “just like Spain”",
+        "Fast, efficient service despite the crowds",
+        "Strong wine and sherry selection, including Albariño, Manzanilla and vermouth"
+      ],
+      "popular_dishes": [
+        "Tortilla Española",
+        "Croquetas (jamón, cheese, seafood variations)",
+        "Jamón Ibérico",
+        "Pluma Ibérica",
+        "Grilled squid / baby squid",
+        "Black rice with squid",
+        "Garlic & chilli prawns / prawn fritters",
+        "Fried goat’s cheese with honey",
+        "Pan con tomate",
+        "Patatas bravas",
+        "Chocolate pot",
+        "Cheesecake",
+        "Flan"
+      ],
+      "atmosphere_experience": "José is tiny, busy, and full of energy. Seating is close together (often at the bar or counter), with an open kitchen that adds to the buzz. Noise levels are typically loud but social, and many diners enjoy watching the chefs at work. Service is often praised as efficient and friendly, though some guests report feeling rushed during peak hours due to high turnover.",
+      "good_to_know": [
+        "Walk-ins only (no reservations); queues are common, especially evenings and weekends",
+        "Small portions by design—many diners recommend ordering around 3 tapas per person",
+        "Prices can add up quickly, though quality is widely praised",
+        "Very limited space: cramped seating and high stools are common",
+        "Vegetarian options exist, but the menu leans toward meat and seafood",
+        "Service charge is typically added; some reviews mention an optional charity donation on the bill",
+        "Best for short, lively meals rather than long, leisurely dining"
+      ],
+      "best_for": [
+        "Tapas lovers",
+        "Spanish food purists",
+        "After-work bites",
+        "Casual dates",
+        "Wine and sherry enthusiasts",
+        "Lively, buzzy dining"
+      ],
+      "top_tip": "Visit early afternoon or midweek to avoid long queues, and don’t skip the tortilla or croquetas—they’re the most consistently praised dishes.",
+      "booking": "walk_in"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "name": "The Last Talisman",
+  "short_title": "Cocktail-first bar/restaurant with “magical” brunch & events",
+  "neighbourhood": [
+    "London Bridge",
+    "Bermondsey"
+  ],
+  "cuisine": [
+    "Pan-Asian",
+    "Asian-inspired small plates",
+    "Cocktail bar"
+  ],
+  "category": [
+    "Cocktail-first",
+    "Bar & food",
+    "Brunch",
+    "Events/Private hire"
+  ],
+  "price_range": "££",
+  "summary": "The Last Talisman is a stylish, high-energy cocktail-first bar/restaurant near London Bridge that diners visit primarily for creative drinks, décor and themed experiences such as the “Magical Brunch” and private events. Reviews consistently praise the cocktails and vibe, while food feedback is mixed—most commonly noting very small portions for the price.",
+  "what_diners_love": [
+    "Original, high-quality cocktails (main reason many return)",
+    "Great vibe and décor with Asian-inspired, night-out energy",
+    "Friendly staff frequently mentioned in positive reviews",
+    "Private hire/events get strong feedback (birthdays, baby showers, Christmas parties)",
+    "Some standout dishes mentioned positively: pork belly, salmon, spatchcock, miso aubergine and desserts (including vegan coconut panna cotta)"
+  ],
+  "popular_dishes": [
+    "Pork belly",
+    "Salmon",
+    "Spatchcock chicken",
+    "Miso aubergine",
+    "Desserts (including vegan coconut panna cotta)"
+  ],
+  "atmosphere_experience": "A lively, stylish venue with a modern Asian-inspired aesthetic and strong ‘night out’ energy. Guests often come for cocktails, music and themed events more than for a food-led dining experience. Brunch and private events are a key part of the appeal.",
+  "good_to_know": [
+    "Better for cocktails and atmosphere than value-focused dining",
+    "Private events and themed brunches are frequently mentioned as highlights",
+    "Expect to order multiple plates if you want a filling meal",
+    "Discount bookings (e.g., The Fork / First Table) are often mentioned as improving value"
+  ],
+  "mixed_feedback": [
+    "Portions frequently described as very small relative to price",
+    "Service inconsistency reported (slow waits, missing dishes, rushed/ignored experiences)",
+    "Magical Brunch varies: some love it, others find the show brief/underwhelming or poor value",
+    "Venue maintenance niggles: cold upstairs/heating issues, wobbly tables, toilets not great",
+    "Occasional billing/charges confusion (service charge at the bar, discount fine print)"
+  ],
+  "best_for": [
+    "Cocktail lovers",
+    "Lively night out",
+    "Themed brunch experiences",
+    "Private parties and events",
+    "Groups prioritising vibe over value"
+  ],
+  "top_tip": "Prioritise cocktails plus a few best-bet plates (pork belly/salmon/miso aubergine/spatchcock). For value, consider booking with discounts (e.g., The Fork/First Table).",
+  "booking": "recommended"
+}
